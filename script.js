@@ -56,6 +56,7 @@ async function loadXML() {
           <year>2024</year>
           <price>${price}</price>
           <currency>RUR</currency>
+          <vin></vin>
           <owners_number>Не было владельцев</owners_number>
           </car>
           `
